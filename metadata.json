@@ -1,0 +1,7 @@
+{
+  "name": "get ipa of the word",
+  "description": "A modern English learning companion to find IPA transcriptions, listen to AI-powered pronunciations, and track your vocabulary progress.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
